@@ -1,0 +1,37 @@
+# Entorno virtual
+venv/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Notas personales de desarrollo
+README_dev.md
+
+# Credenciales — NUNCA versionar
+.env
+
+# Build y distribución
+dist/
+build/
+*.egg-info/
+
+# Backups
+backup/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db

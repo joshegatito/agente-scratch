@@ -1,0 +1,23 @@
+# ─── Runtime — dependencias del paquete ──────────────────────────────────────
+google-genai==2.6.0
+python-dotenv==1.2.2
+scratchattach==2.1.17
+requests==2.34.2
+Pillow
+textual
+
+# ─── Agente MCP — LangChain + LangGraph + FastMCP ────────────────────────────
+mcp[cli]
+langchain-core
+langchain-google-genai
+langgraph
+langgraph-prebuilt
+
+# ─── Desarrollo ───────────────────────────────────────────────────────────────
+build
+twine
+pytest
+pytest-cov
+ruff
+mypy
+types-requests
