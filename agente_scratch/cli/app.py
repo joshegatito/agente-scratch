@@ -14,7 +14,7 @@ from agente_scratch.core import (
 )
 
 # ─── Ruta de la imagen del gato ──────────────────────────────────────────────
-_GATO_PNG = Path(__file__).parent.parent.parent / "scratch.png"
+_GATO_PNG = Path(__file__).parent.parent / "scratch.png"
 _ANCHO_GATO = 16
 
 

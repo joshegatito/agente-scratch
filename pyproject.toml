@@ -62,7 +62,7 @@ where = ["."]
 include = ["agente_scratch*"]
 
 [tool.setuptools.package-data]
-"agente_scratch" = ["assets/*"]
+"agente_scratch" = ["assets/*", "scratch.png"]
 
 # ─── Ruff — linter y formatter ────────────────────────────────────────────────
 [tool.ruff]
