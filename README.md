@@ -6,6 +6,8 @@
 
 Genera proyectos `.sb3` para [Scratch 3.0](https://scratch.mit.edu) a partir de una descripción en lenguaje natural usando inteligencia artificial (Gemini 2.5 Flash).
 
+![Agente Scratch](https://i.imgur.com/OtEdX4C.png)
+
 ---
 
 ## ¿Qué es Scratch?
